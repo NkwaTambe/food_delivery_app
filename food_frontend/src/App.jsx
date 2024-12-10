@@ -2,8 +2,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
-import RestaurantList from "./pages/RestaurantList"; // Assuming you create this page
-import RestaurantMenu from "./pages/RestaurantMenu"; // Assuming you create this page
+import RestaurantList from "./pages/RestaurantList"; 
+import RestaurantMenu from "./pages/RestaurantMenu"; 
 import About from './pages/About';
 import Services from './pages/Services';
 import Contact from './pages/Contact';
